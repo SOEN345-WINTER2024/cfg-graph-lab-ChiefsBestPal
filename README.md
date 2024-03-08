@@ -1,3 +1,39 @@
+# Antoine Cantin 40211205 Lab7 SOEN345
+
+## P1
+
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-ChiefsBestPal/assets/67126866/101f7a92-adc5-400a-89e6-75c67a616add)
+
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-ChiefsBestPal/assets/67126866/4e3ad450-d2c0-4fe2-9644-5399b0defedf)
+
+Test Requirements  = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23 } \
+
+Test Paths = { [1, 2, 23], [1, 3, 23], [1, 4, 23], [1, 5, 23], [1, 6, 23], [1, 7, 23], [1, 8, 23], [1, 9, 23], [1, 10, 23], [1, 11, 23], [1, 12, 23], [1, 13, 23], [1, 14, 23], [1, 15, 23], [1, 16, 23], [1, 17, 18, 22, 23],  [1, 17, 19, 22, 23], [1, 17, 20, 22, 23], [1, 17, 21, 22, 23]} \
+
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-ChiefsBestPal/assets/67126866/26399bc5-7b7c-491b-b3de-1c74b8c86d1e)
+
+Test Requirements = { [1,2], [1,3], [1,4], [1,5], [1,6], [1,7], [1,8], [1,9], [1,10], [1,11], [1,12], [1,13], [1,14], [1,15], [1,16], [1,17], [17, 18], [18, 19], [19,20], [20,21], [18,22], [19,22], [20,22], [21,22], [2,23], [3,23], [4,23], [5,23], [6,23], [7,23], [8,23], [9,23], [10,23], [11,23], [12,23], [13,23], [14,23], [15,23], [16,23], [22,23] } \
+
+Test Paths = { [1, 2, 23], [1, 3, 23], [1, 4, 23], [1, 5, 23], [1, 6, 23], [1, 7, 23], [1, 8, 23], [1, 9, 23], [1, 10, 23], [1, 11, 23], [1, 12, 23], [1, 13, 23], [1, 14, 23], [1, 15, 23], [1, 16, 23], [1, 17, 18, 22, 23],  [1, 17, 19, 22, 23], [1, 17, 20, 22, 23], [1, 17, 21, 22, 23]} \
+
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-ChiefsBestPal/assets/67126866/ac89dce8-3dd5-4d93-b917-ae550eb8afa0)
+
+Test Requirements = { [1, 2, 23], [1, 3, 23], [1, 4, 23], [1, 5, 23], [1, 6, 23], [1, 7, 23], [1, 8, 23], [1, 9, 23], [1, 10, 23], [1, 11, 23], [1, 12, 23], [1, 13, 23], [1, 14, 23], [1, 15, 23], [1, 16, 23], [1, 17, 18], [1, 17, 19], [1, 17, 20], [1, 17, 21], [18, 22, 23], [19, 22, 23], [20, 22, 23], [21, 22, 23] } \
+
+Test Paths = { [1, 2, 23], [1, 3, 23], [1, 4, 23], [1, 5, 23], [1, 6, 23], [1, 7, 23], [1, 8, 23], [1, 9, 23], [1, 10, 23], [1, 11, 23], [1, 12, 23], [1, 13, 23], [1, 14, 23], [1, 15, 23], [1, 16, 23], [1, 17, 18, 22, 23],  [1, 17, 19, 22, 23], [1, 17, 20, 22, 23], [1, 17, 21, 22, 23]} \ 
+
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-ChiefsBestPal/assets/67126866/70dcff11-cb8b-4c64-95bb-9a5cddb1d70a)
+
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-ChiefsBestPal/assets/67126866/f1241483-64a0-4241-9008-bda36ccc37da)
+
+
+## P2
+
+Anki Android app
+
+TODO
+
+
 # Soot Tutorial
 [![Build Status](https://travis-ci.com/noidsirius/SootTutorial.svg?branch=master)](https://travis-ci.com/noidsirius/SootTutorial)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/noidsirius/SootTutorial)
