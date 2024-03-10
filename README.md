@@ -29,10 +29,29 @@ Test Paths = { [1, 2, 23], [1, 3, 23], [1, 4, 23], [1, 5, 23], [1, 6, 23], [1, 7
 
 ## P2
 
-Anki Android app
+Anki Android app (Antoine Cantin, in Andruides team)
 
-TODO
+TODO FINISH
 
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-ChiefsBestPal/assets/67126866/aac87ab1-072d-47d5-85f2-daf1c41bb99e)
+
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-ChiefsBestPal/assets/67126866/4787be4f-a522-4a89-82e6-6f71cafcff24)
+
+Test Requirements  = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12 } \
+Test Paths = { [1,3,4,12],[1,2,12],[1,3,5,10,11,12],[1,3,5,6,11,12],[1,3,5,7,11,12],[1,3,5,8,11,12],[1,3,5,9,11,12] } \
+
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-ChiefsBestPal/assets/67126866/465d0356-bc63-4b79-8fde-79e195f12ba5)
+
+Test Requirements = { [1,2],[1,3],[3,4],[3,5],[5,6],[5,7],[5,8],[5,9],[5,10],[2,12],[4,12],[6,11],[7,11],[8,11],[9,11],[10,11],[11,12] } \
+Test Paths = { [1,3,4,12],[1,2,12],[1,3,5,10,11,12],[1,3,5,6,11,12],[1,3,5,7,11,12],[1,3,5,8,11,12],[1,3,5,9,11,12] } \
+
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-ChiefsBestPal/assets/67126866/194ab81e-e5ba-4132-8446-7ea541bf4bc0)
+
+Test Requirements = { [1,2,12], [1,3,4], [1,3,5], [3,4,12], [3,5,6], [3,5,7], [3,5,8], [3,5,9], [3,5,10], [5,6,11], [5,7,11], [5,8,11], [5,9,11], [5,10,11], [6,11,12], [7,11,12], [8,11,12], [9,11,12], [10,11,12] } \
+
+Test Paths = { [1,3,4,12],[1,2,12],[1,3,5,10,11,12],[1,3,5,6,11,12],[1,3,5,7,11,12],[1,3,5,8,11,12],[1,3,5,9,11,12] } \
+
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-ChiefsBestPal/assets/67126866/4b2343ab-7709-44d6-80b5-1878530d7b47)
 
 # Soot Tutorial
 [![Build Status](https://travis-ci.com/noidsirius/SootTutorial.svg?branch=master)](https://travis-ci.com/noidsirius/SootTutorial)
