@@ -31,7 +31,8 @@ Test Paths = { [1, 2, 23], [1, 3, 23], [1, 4, 23], [1, 5, 23], [1, 6, 23], [1, 7
 
 Anki Android app (Antoine Cantin, in Andruides team)
 
-TODO FINISH
+
+![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-ChiefsBestPal/assets/67126866/3e6efb1a-934f-4c72-88de-1513d9cac058)
 
 ![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-ChiefsBestPal/assets/67126866/aac87ab1-072d-47d5-85f2-daf1c41bb99e)
 
